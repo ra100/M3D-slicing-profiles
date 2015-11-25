@@ -1,5 +1,5 @@
-_description: M3D PLA 0.05mm V3 Raft
-_display_name: M3D PLA 0.05mm V3 Raft
+_description: M3D PLA 0.05mm V1 Raft
+_display_name: M3D PLA 0.05mm V1 Raft
 layer_height: 0.05
 wall_thickness: 1.0
 retraction_enable: true
@@ -81,7 +81,7 @@ fix_horrible_union_all_type_a: true
 fix_horrible_union_all_type_b: false
 fix_horrible_use_open_bits: false
 fix_horrible_extensive_stitching: false
-plugin_config: 
+plugin_config:
 object_center_x: 54
 object_center_y: 50
 
@@ -94,14 +94,14 @@ start_gcode:
 '
 end_gcode:
 - '
-  
+
 
 '
-support_start.gcode: 
-support_end.gcode: 
-cool_start.gcode: 
-cool_end.gcode: 
-replace.csv: 
-preswitchextruder.gcode: 
-postswitchextruder.gcode: 
+support_start.gcode:
+support_end.gcode:
+cool_start.gcode:
+cool_end.gcode:
+replace.csv:
+preswitchextruder.gcode:
+postswitchextruder.gcode:
 
