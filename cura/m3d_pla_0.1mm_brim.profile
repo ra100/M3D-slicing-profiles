@@ -28,7 +28,7 @@ filament_diameter4: 0
 filament_diameter5: 0
 filament_flow: 100.0
 retraction_speed: 42.0
-retraction_amount: 1.0
+retraction_amount: 2.0
 retraction_dual_amount: 14.5
 retraction_min_travel: 1.5
 retraction_combing: all
