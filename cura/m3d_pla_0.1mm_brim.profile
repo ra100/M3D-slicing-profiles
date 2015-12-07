@@ -13,7 +13,7 @@ print_temperature2: 0
 print_temperature3: 0
 print_temperature4: 0
 print_temperature5: 0
-print_bed_temperature: 70
+print_bed_temperature: 0
 support: everywhere
 platform_adhesion: brim
 support_dual_extrusion: both
@@ -65,7 +65,7 @@ support_xy_distance: 0.7
 support_z_distance: 0.15
 spiralize: false
 simple_mode: false
-brim_line_count: 20
+brim_line_count: 12
 raft_margin: 2.0
 raft_line_spacing: 4.0
 raft_base_thickness: 0.4

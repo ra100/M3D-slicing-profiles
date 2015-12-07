@@ -8,13 +8,13 @@ copy desired profile to `~/.octoprint/slicingProfiles/cura/`
 
 ## Notes
 
-| profile file          | v   | adhesion | layer | retraction | notes   | result |
-| --------------------- | --- | -------- | ----- | ---------- | ------- | ------ |
-| `m3d_abs_0.1mm`       | 3   | none     | 0.1   | 42/2       | M3D-Fio | -      |
-| `m3d_pla_0.1mm`       | 3   | none     | 0.1   | 42/2       | M3D-Fio | -      |
-| `m3d_pla_0.05mm`      | 3   | none     | 0.05  | 42/2       | M3D-Fio | -      |
-| `m3d_pla_0.1mm_brim`  | 1   | brim     | 0.1   | 42/2       | -       | -      |
-| `m3d_pla_0.05mm_raft` | 1   | raft     | 0.05  | 42/2       | -       | -      |
+| profile file          | v   | adhesion | layer | temperature | notes   | result |
+| --------------------- | --- | -------- | ----- | ----------- | ------- | ------ |
+| `m3d_abs_0.1mm`       | 3   | none     | 0.1   | 215         | M3D-Fio | -      |
+| `m3d_pla_0.1mm`       | 3   | none     | 0.1   | 215         | M3D-Fio | -      |
+| `m3d_pla_0.05mm`      | 3   | none     | 0.05  | 215         | M3D-Fio | -      |
+| `m3d_pla_0.1mm_brim`  | 1   | brim     | 0.1   | 190         | -       | -      |
+| `m3d_pla_0.05mm_raft` | 1   | raft     | 0.05  | 215         | -       | -      |
 
 ## Disclaimer
 
