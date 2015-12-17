@@ -10,10 +10,10 @@ copy desired profile to `~/.octoprint/slicingProfiles/cura/`
 
 | profile file          | v   | adhesion | layer | temperature | notes   | result |
 | --------------------- | --- | -------- | ----- | ----------- | ------- | ------ |
-| `m3d_abs_0.1mm`       | 3   | none     | 0.1   | 215         | M3D-Fio | -      |
-| `m3d_pla_0.1mm`       | 3   | none     | 0.1   | 215         | M3D-Fio | -      |
-| `m3d_pla_0.05mm`      | 3   | none     | 0.05  | 215         | M3D-Fio | -      |
-| `m3d_pla_0.1mm_brim`  | 1   | brim     | 0.1   | 190         | -       | -      |
+| `m3d_abs_0.1mm`       | 4   | none     | 0.1   | 215         | M3D-Fio | -      |
+| `m3d_pla_0.1mm`       | 4   | none     | 0.1   | 215         | M3D-Fio | -      |
+| `m3d_pla_0.05mm`      | 4   | none     | 0.05  | 215         | M3D-Fio | -      |
+| `m3d_pla_0.1mm_brim`  | 1   | brim     | 0.1   | 215         | -       | -      |
 | `m3d_pla_0.05mm_raft` | 1   | raft     | 0.05  | 215         | -       | -      |
 
 ## Disclaimer
